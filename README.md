@@ -1,10 +1,8 @@
-# Healthcare-Resource-Optimisation-App
-Developed a Healthcare Resource Optimization App to forecast medical resource needs and optimize their allocation during health crises like pandemics.
-# 🏥 Healthcare Resource Optimization App
+## 🏥 Healthcare Resource Optimization Website
 
-A time-series based forecasting and resource planning tool developed to help hospitals, healthcare organizations, and government bodies optimize the allocation of medical resources (beds, ventilators, oxygen cylinders, etc.) during healthcare emergencies such as pandemics.
+Imagine a tool that helps hospitals and healthcare heroes breathe easier during crises. This app uses smart time-traveling tech (time-series forecasting!) to predict exactly how many beds, ventilators, and oxygen tanks will be needed. It's like having a crystal ball for resource planning, ensuring that everyone gets the care they need, when they need it. \
+Plus, it's a quick portal to research papers and even AI helpers like ChatGPT, making it a one-stop shop for healthcare professionals tackling tough challenges.
 
----
 
 ## 📌 Table of Contents
 
@@ -21,13 +19,13 @@ A time-series based forecasting and resource planning tool developed to help hos
 - [Contributing](#contributing)
 - [License](#license)
 
----
+
 
 ## 🧠 Overview
 
 This project forecasts the demand for essential healthcare resources using historical health data. It applies advanced time series modeling to provide precise predictions, enabling smarter and more efficient medical logistics management.
 
----
+
 
 ## ✨ Features
 
@@ -39,7 +37,7 @@ This project forecasts the demand for essential healthcare resources using histo
 - 🛡️ Secure and scalable backend
 - 🚑 Useful for hospitals, NGOs, and policymakers
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +49,7 @@ This project forecasts the demand for essential healthcare resources using histo
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Environment**: venv, pip
 
----
+
 
 ## 📊 Model & Algorithms
 
@@ -63,12 +61,12 @@ This project forecasts the demand for essential healthcare resources using histo
   - Probabilistic programming language used as the backend of Prophet.
   - Bayesian inference ensures credible intervals for forecasting.
 
----
+
 
 ## 🚀 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/sd45saswat/healthcare-resource-optimization-app.git
+git clone https://github.com/Divine-reveire/Healthcare-Resource-Optimisation-App.git
 cd healthcare-resource-optimization-app
