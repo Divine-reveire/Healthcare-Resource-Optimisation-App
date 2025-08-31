@@ -1,4 +1,5 @@
-
+# Healthcare-Resource-Optimisation-App
+Developed a Healthcare Resource Optimization App to forecast medical resource needs and optimize their allocation during health crises like pandemics.
 # 🏥 Healthcare Resource Optimization App
 
 A time-series based forecasting and resource planning tool developed to help hospitals, healthcare organizations, and government bodies optimize the allocation of medical resources (beds, ventilators, oxygen cylinders, etc.) during healthcare emergencies such as pandemics.
@@ -69,5 +70,5 @@ This project forecasts the demand for essential healthcare resources using histo
 Clone the repository:
 
 ```bash
-git clone https://github.com/Divine-reveire/Healthcare-Resource-Optimisation-App.git
+git clone https://github.com/sd45saswat/healthcare-resource-optimization-app.git
 cd healthcare-resource-optimization-app
